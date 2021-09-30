@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.varijkapil13.jwtparserplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.varijkapil13.jwtparserplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
